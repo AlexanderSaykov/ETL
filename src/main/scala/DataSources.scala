@@ -3,7 +3,7 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 import org.slf4j.{Logger, LoggerFactory}
 
 
-class DataSources() {
+class DataSources {
 
   val spark = SparkSession.builder.master("local").getOrCreate()
   val logger: Logger = LoggerFactory.getLogger(this.getClass)
