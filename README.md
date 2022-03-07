@@ -18,7 +18,7 @@ asnuCode is internal technical code of bank. When asnuCode is 6000 it is called 
 
 1.2 ApplicationArguments
 
-This class is neede for  Concurrentthought.cla to create new arguments for main app
+This class is needed for  Concurrentthought.cla to create new arguments for main app
 
 1.3 Const
 
@@ -35,7 +35,7 @@ according to mask. Mask is first 5 numbers of dt_account or kt_account number.
 
 1.6 Sheet30AggregationTransform
 
-Here you can find transform method which performs all aggrigation functions. According to asnuCode it chooses 
+Here you can find transform method which performs all aggregation functions. According to asnuCode it chooses 
 right process. 
 
 2.0 **srs/main/test**
@@ -43,8 +43,8 @@ right process.
 2.1 AggregationEKP30Test
 
 Here are tests for EKP process. First test is called main app test and it just start main app with arguments.
-Next tests check that all filters and aggrigations works correct. We know for sure that transactions with certain
-masks should pass all filters and aggrigations and stays in final dataframe. We crating a case class which represent one tax transaction
+Next tests check that all filters and aggregations works correct. We know for sure that transactions with certain
+masks should pass all filters and aggregations and stays in final dataframe. We crate a case class which represent one tax transaction
 and performing transform operation on it. We check all combinations of masks. 
 If we get empty dataframe after ETL process it means that test is failed.
 
