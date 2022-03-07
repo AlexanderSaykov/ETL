@@ -1,0 +1,11 @@
+trait Masks {
+
+  val RSD2_1_INCLUDE_CHECK_CORRESP: Seq[String]
+  val RSD2_1_INCLUDE_CHECK_LINKED: Seq[String]
+  val RSD2_1_CORRESP_EXCLUDE: Seq[String]
+  val RSD2_1_LINKED_EXCLUDE: Seq[String]
+  val RSD2_2_INCLUDE_CHECK_CORRESP_REGEX: Seq[String]
+  val RSD2_2_CORRESP_INCLUDE: Seq[String]
+  val RSD2_2_INCLUDE_CHECK_LINKED: Seq[String]
+  val RSD2_2_LINKED_INCLUDE: Seq[String]
+}

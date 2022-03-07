@@ -1,0 +1,376 @@
+[
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000012829,
+    "usl_div_code": "4000",
+    "usl_div_name": "Среднерусский банк ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "88"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000000308,
+    "usl_div_code": "5500",
+    "usl_div_name": "СЕВЕРО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "64"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000000240,
+    "usl_div_code": "4200",
+    "usl_div_name": "ВОЛГО-ВЯТСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "8"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000016111,
+    "usl_div_code": "5400",
+    "usl_div_name": "ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "44"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000000190,
+    "usl_div_code": "4400",
+    "usl_div_name": "СИБИРСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "82"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000014507,
+    "usl_div_code": "1800",
+    "usl_div_name": "БАЙКАЛЬСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "4"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000000235,
+    "usl_div_code": "3800",
+    "usl_div_name": "ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "37"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000012296,
+    "usl_div_code": "1300",
+    "usl_div_name": "ЦЕНТРАЛЬНО-ЧЕРНОЗЕМНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "102"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000004113,
+    "usl_div_code": "1600",
+    "usl_div_name": "УРАЛЬСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "97"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000015792,
+    "usl_div_code": "1600",
+    "usl_div_name": "УРАЛЬСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "97"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000015792,
+    "usl_div_code": "7000",
+    "usl_div_name": "ДАЛЬНЕВОСТОЧНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "20"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000093920,
+    "usl_div_code": "0099",
+    "usl_div_name": "ГРЦ ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "113"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000152047,
+    "usl_div_code": "5200",
+    "usl_div_name": "ЮГО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "109"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000094657,
+    "usl_div_code": "0000",
+    "usl_div_name": "ЦА ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "113"
+  },
+  {
+    "usl_div_dp_code": "ndl_eks_gl",
+    "usl_div_sk": 5000000000114599,
+    "usl_div_code": "8000",
+    "usl_div_name": "Индийский филиал",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "113"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1538081315524,
+    "usl_div_code": "040",
+    "usl_div_name": "Среднерусский банк ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "88"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1200001985880,
+    "usl_div_code": "601",
+    "usl_div_name": "СЕВЕРО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "64"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1094040736099	,
+    "usl_div_code": "701",
+    "usl_div_name": "ВОЛГО-ВЯТСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "8"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1590337967368,
+    "usl_div_code": "054",
+    "usl_div_name": "ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "44"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 115119062844,
+    "usl_div_code": "301",
+    "usl_div_name": "СИБИРСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "82"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1590336497178,
+    "usl_div_code": "018",
+    "usl_div_name": "БАЙКАЛЬСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "4"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1570986611545,
+    "usl_div_code": "013",
+    "usl_div_name": "ЦЕНТРАЛЬНО-ЧЕРНОЗЕМНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "102"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 188119062844,
+    "usl_div_code": "401",
+    "usl_div_name": "УРАЛЬСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "97"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 5000000000012829,
+    "usl_div_code": "4000",
+    "usl_div_name": "Среднерусский банк ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "88"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1590337507643,
+    "usl_div_code": "070",
+    "usl_div_name": "ДАЛЬНЕВОСТОЧНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "20"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 815001985880,
+    "usl_div_code": "501",
+    "usl_div_name": "ЮГО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "109"
+  },
+  {
+    "usl_div_dp_code": "ekp_gl",
+    "usl_div_sk": 1442843007175,
+    "usl_div_code": "000",
+    "usl_div_name": "ЦА ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "113"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 2812162364068,
+    "usl_div_code": "040",
+    "usl_div_name": "Среднерусский банк ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "88"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 1200001985880,
+    "usl_div_code": "601",
+    "usl_div_name": "СЕВЕРО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "64"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 1094040736099,
+    "usl_div_code": "701",
+    "usl_div_name": "ВОЛГО-ВЯТСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "8"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 2819466794118,
+    "usl_div_code": "054",
+    "usl_div_name": "ПОВОЛЖСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "44"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 115119062844,
+    "usl_div_code": "301",
+    "usl_div_name": "СИБИРСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "82"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 2819466800895,
+    "usl_div_code": "018",
+    "usl_div_name": "БАЙКАЛЬСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "4"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 1331337421084,
+    "usl_div_code": "038",
+    "usl_div_name": "ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "37"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 2819466804346,
+    "usl_div_code": "013",
+    "usl_div_name": "ЦЕНТРАЛЬНО-ЧЕРНОЗЕМНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "102"
+  },
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 188119062844,
+    "usl_div_code": "401",
+    "usl_div_name": "УРАЛЬСКИЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "97"
+  }
+,
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 2819466799768,
+    "usl_div_code": "070",
+    "usl_div_name": "ДАЛЬНЕВОСТОЧНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "20"
+  }
+,
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 4577468421042,
+    "usl_div_code": "008",
+    "usl_div_name": "ГРЦ ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "113"
+  }
+,
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 815001985880,
+    "usl_div_code": "501",
+    "usl_div_name": "ЮГО-ЗАПАДНЫЙ БАНК ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "109"
+  }
+,
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 4577464306208,
+    "usl_div_code": "000",
+    "usl_div_name": "ЦА ПАО СБЕРБАНК",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "113"
+  }
+,
+  {
+    "usl_div_dp_code": "eks_gl",
+    "usl_div_sk": 4924172552846,
+    "usl_div_code": "800",
+    "usl_div_name": "Индийский филиал",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31",
+    "filial_code_fk": "113"
+  }
+]

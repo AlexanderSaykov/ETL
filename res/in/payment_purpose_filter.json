@@ -1,0 +1,128 @@
+[
+  {
+    "id_pk": 1,
+    "asnu_code_fk": "6000",
+    "tax_doc_type_code": "sheet_301",
+    "use_type": "EXCLUDE",
+    "payment_purpose_pattern": "credit payment 5",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 2,
+    "asnu_code_fk": "6000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 1",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 3,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 22",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 4,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 45",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 5,
+    "asnu_code_fk": "6000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 34",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 6,
+    "asnu_code_fk": "6000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 22",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 7,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 41",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 8,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 33",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 9,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 46",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 10,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 36",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 11,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 12",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 12,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 68",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 13,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 54",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  },
+  {
+    "id_pk": 14,
+    "asnu_code_fk": "9000",
+    "tax_doc_type_code": "sheet_302",
+    "use_type": "INCLUDE",
+    "payment_purpose_pattern": "credit payment 1q",
+    "start_date": "1900-01-01",
+    "end_date": "9999-12-31"
+  }
+]
